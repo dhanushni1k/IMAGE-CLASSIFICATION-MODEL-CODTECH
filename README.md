@@ -38,7 +38,7 @@ Clone the Repository:
 Start by cloning the project repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/dhanushni1k/IMAGE-CLASSIFICATION-MODEL-CODTECH/tree/main
 Install Dependencies:
 
 Install the required dependencies using pip:
